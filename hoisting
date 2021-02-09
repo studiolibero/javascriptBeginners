@@ -1,0 +1,9 @@
+/////////////////////////
+// 1) Hoisted variable
+/////////////////////////
+
+function getMirin(){
+  return mirin;
+}
+
+var mirin = 'Bottled Sweet Sake';
